@@ -1,0 +1,17 @@
+[dumpfile] "C:\Users\User\AppData\Local\Temp\tmp6be_zx10\la0tmp_continous.vcd"
+[dumpfile_mtime] "Thu Jun 19 02:45:07 2025"
+[dumpfile_size] 52255
+[savefile] "D:\Efinity_Project\IMX219\04-1_Ti60_SC2210_HDMI_1080P60\la0_waveform.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*0.000000 c 2048 6144 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[signals_width] 126
+[sst_expanded] 1
+@22
+top.cnt_pixel[10:0]
+top.cnt_row[10:0]
+top.cmos_frame_vsync
+top.w_csi_rx_hsync0
+top.w_csi_rx_dvalid
+top.w_csi_rx_data[63:0]

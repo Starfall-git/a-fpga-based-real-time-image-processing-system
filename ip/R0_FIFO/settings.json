@@ -1,0 +1,72 @@
+{
+    "args": [
+        "-o",
+        "R0_FIFO",
+        "--base_path",
+        "C:\\Users\\Image\\AppData\\Local\\Temp\\tmpkk7fdmyv\\ip",
+        "--vlnv",
+        {
+            "vendor": "efinixinc.com",
+            "library": "memory",
+            "name": "efx_fifo_top",
+            "version": "5.0"
+        }
+    ],
+    "conf": {
+        "SYNC_CLK": "0",
+        "SYNC_STAGE": "2",
+        "DEPTH_2": "8",
+        "DATA_WIDTH": "128",
+        "MODE": "\"FWFT\"",
+        "OUTPUT_REG": "0",
+        "PROG_FULL_ASSERT": "128",
+        "PROGRAMMABLE_FULL": "\"NONE\"",
+        "PFN_INTERNAL": "127",
+        "PEA_INTERNAL": "2",
+        "PEN_INTERNAL": "3",
+        "PROGRAMMABLE_EMPTY": "\"NONE\"",
+        "OPTIONAL_FLAGS": "0",
+        "PIPELINE_REG": "1",
+        "FAMILY": "\"TITANIUM\"",
+        "ASYM_WIDTH_RATIO": "1",
+        "BYPASS_RESET_SYNC": "0",
+        "ENDIANESS": "0"
+    },
+    "output": {
+        "external_source_source": [
+            "C:\\Users\\Image\\AppData\\Local\\Temp\\tmpkk7fdmyv\\ip\\R0_FIFO\\R0_FIFO.v",
+            "C:\\Users\\Image\\AppData\\Local\\Temp\\tmpkk7fdmyv\\ip\\R0_FIFO\\R0_FIFO_tmpl.vhd",
+            "C:\\Users\\Image\\AppData\\Local\\Temp\\tmpkk7fdmyv\\ip\\R0_FIFO\\R0_FIFO_tmpl.v",
+            "C:\\Users\\Image\\AppData\\Local\\Temp\\tmpkk7fdmyv\\ip\\R0_FIFO\\R0_FIFO_define.vh"
+        ],
+        "external_example_example": [
+            "C:\\Users\\Image\\AppData\\Local\\Temp\\tmpkk7fdmyv\\ip\\R0_FIFO\\T20F256_devkit\\fifo_demo_top.v",
+            "C:\\Users\\Image\\AppData\\Local\\Temp\\tmpkk7fdmyv\\ip\\R0_FIFO\\T20F256_devkit\\fifo_demo.peri.xml",
+            "C:\\Users\\Image\\AppData\\Local\\Temp\\tmpkk7fdmyv\\ip\\R0_FIFO\\T20F256_devkit\\fifo_demo.xml",
+            "C:\\Users\\Image\\AppData\\Local\\Temp\\tmpkk7fdmyv\\ip\\R0_FIFO\\T20F256_devkit\\fifo_demo_T20.sdc",
+            "C:\\Users\\Image\\AppData\\Local\\Temp\\tmpkk7fdmyv\\ip\\R0_FIFO\\T20F256_devkit\\efx_symmetric_width_fifo_top.v",
+            "C:\\Users\\Image\\AppData\\Local\\Temp\\tmpkk7fdmyv\\ip\\R0_FIFO\\T20F256_devkit\\R0_FIFO.v",
+            "C:\\Users\\Image\\AppData\\Local\\Temp\\tmpkk7fdmyv\\ip\\R0_FIFO\\T20F256_devkit\\R0_FIFO_define.vh"
+        ],
+        "external_example_2": [
+            "C:\\Users\\Image\\AppData\\Local\\Temp\\tmpkk7fdmyv\\ip\\R0_FIFO\\Ti60F225_devkit\\fifo_demo_top.v",
+            "C:\\Users\\Image\\AppData\\Local\\Temp\\tmpkk7fdmyv\\ip\\R0_FIFO\\Ti60F225_devkit\\fifo_demo.peri.xml",
+            "C:\\Users\\Image\\AppData\\Local\\Temp\\tmpkk7fdmyv\\ip\\R0_FIFO\\Ti60F225_devkit\\fifo_demo.xml",
+            "C:\\Users\\Image\\AppData\\Local\\Temp\\tmpkk7fdmyv\\ip\\R0_FIFO\\Ti60F225_devkit\\fifo_demo_Ti60.sdc",
+            "C:\\Users\\Image\\AppData\\Local\\Temp\\tmpkk7fdmyv\\ip\\R0_FIFO\\Ti60F225_devkit\\efx_symmetric_width_fifo_top.v",
+            "C:\\Users\\Image\\AppData\\Local\\Temp\\tmpkk7fdmyv\\ip\\R0_FIFO\\Ti60F225_devkit\\R0_FIFO.v",
+            "C:\\Users\\Image\\AppData\\Local\\Temp\\tmpkk7fdmyv\\ip\\R0_FIFO\\Ti60F225_devkit\\R0_FIFO_define.vh"
+        ],
+        "external_testbench_testbench": [
+            "C:\\Users\\Image\\AppData\\Local\\Temp\\tmpkk7fdmyv\\ip\\R0_FIFO\\Testbench\\fifo_tb.sv",
+            "C:\\Users\\Image\\AppData\\Local\\Temp\\tmpkk7fdmyv\\ip\\R0_FIFO\\Testbench\\xrun.sh",
+            "C:\\Users\\Image\\AppData\\Local\\Temp\\tmpkk7fdmyv\\ip\\R0_FIFO\\Testbench\\msim.sh",
+            "C:\\Users\\Image\\AppData\\Local\\Temp\\tmpkk7fdmyv\\ip\\R0_FIFO\\Testbench\\flist",
+            "C:\\Users\\Image\\AppData\\Local\\Temp\\tmpkk7fdmyv\\ip\\R0_FIFO\\Testbench\\modelsim.do",
+            "C:\\Users\\Image\\AppData\\Local\\Temp\\tmpkk7fdmyv\\ip\\R0_FIFO\\Testbench\\R0_FIFO.v",
+            "C:\\Users\\Image\\AppData\\Local\\Temp\\tmpkk7fdmyv\\ip\\R0_FIFO\\Testbench\\R0_FIFO_define.vh"
+        ]
+    },
+    "sw_version": "2023.1.150",
+    "generated_date": "2023-09-21T14:43:17.872669"
+}
